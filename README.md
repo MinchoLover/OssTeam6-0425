@@ -1,1 +1,3 @@
-# 22100667_Group6
+OSS_20220425_TeamActivity
+22100667 JeongMinchan
+group number 6
